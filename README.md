@@ -2,7 +2,7 @@
 
 A modern, responsive web application designed specifically for **Artificial Intelligence students** to organise their academic journey, track progress, manage assignments and projects, calculate GPA, and access curated learning resources—all in one place.
 
-🌐 **Live Demo:** https://aistudentshub.vercel.app/
+🌐 **Live Demo:** https://vercel.com/mehwish-riazs-projects/ai-student-hub
 
 ---
 
